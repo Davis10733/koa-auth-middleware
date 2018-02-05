@@ -1,0 +1,9 @@
+{
+  "name": "koa-auth-middleware",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.1",
+    "randomstring": "^1.1.5",
+    "standard-http-error": "^2.0.1"
+  }
+}
