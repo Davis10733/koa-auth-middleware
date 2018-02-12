@@ -40,5 +40,5 @@ const playload = {
 
 /* Default timeout is for 5 hours */
 /* Auth secret will be auto-generated */
-const jwt = authHeaderGenerator(playload, timeout = { expiresIn: '5 h' })
+const jwt = authHeaderGenerator(playload, options = { expiresIn: '5 h' })
 ```
