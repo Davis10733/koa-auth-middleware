@@ -1,5 +1,6 @@
 {
   "name": "koa-auth-middleware",
+  "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
     "jsonwebtoken": "^8.1.1",
